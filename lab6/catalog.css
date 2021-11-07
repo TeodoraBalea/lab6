@@ -1,0 +1,9 @@
+body{background-color:Thistle}
+h1 { color: red; font-family:Papyrus; font-size:40px; text-align:center}
+#head1 { color: salmon; font-family: Times New Roman}
+#head2 { color: maroon; font family:Courier New; font-size: 25px}
+#head3 { color: maroon; font family: Courier New; font-size: 25px}
+table, th, tr, td { width: auto;  border: 1px solid black}
+img {border-radius: 50%;  width: 200px; height: 300px;  opacity: 0.5; display: block;  margin-left: auto; margin-right: auto }
+p1 { font-family:  Lucida Handwriting; color: DarkMagenta; background-color: LightPink}
+ul { background-color: blueViolet; opacity: 0.6}
